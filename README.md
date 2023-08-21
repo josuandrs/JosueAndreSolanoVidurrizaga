@@ -2,7 +2,7 @@
 
 <h3 align="left">👩‍💻 About Me...</h3>
 <p align="justify">
-<!-- <br>  Soy una desarrolladora de software de Perú con una creciente experiencia en la industria tech. Me encanta trabajar colaborativamente y aprender constantemente. Estoy ansiosa por expandir mis conocimientos y habilidades a través de nuevos desafíos y colaboraciones. ¡Conectemos y creemos algo increíble juntos!
+<!-- <br>  Soy un desarrollador de software de Perú con una creciente experiencia en la industria tech. Me encanta trabajar colaborativamente y aprender constantemente. Estoy ansioso por expandir mis conocimientos y habilidades a través de nuevos desafíos y colaboraciones. ¡Conectemos y creemos algo increíble juntos!
 <br> -->
 <br>  I am a software developer from Peru with growing experience in the tech industry. I love working collaboratively and continuously learning. Previously, I am eager to expand my knowledge and skills through new challenges and collaborations. 
 </p>
