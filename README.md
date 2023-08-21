@@ -40,7 +40,7 @@
 
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=RaquelBurgos&show_icons=true&theme=gotham" alt="github stats" width="45%" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JosueSolano&show_icons=true&theme=gotham" alt="github stats" width="45%" align="left"/>
 <h3 align="center">📫 How to reach me: ...</h3>
 <div align="center">
   <a href="mailto: jasovi15@gmail.com" target="_blank">
